@@ -13,11 +13,11 @@ Need to clean up? Our uninstallation script can remove all detected VC++ runtime
 ### Compatibility
 
 combatible with all windows os:
--windows xp
--windows Vista / 7
--windows 8/8.1
--windows 10
--windows 11
+* windows xp
+* windows Vista / 7
+* windows 8/8.1
+* windows 10
+* windows 11
 
 ### Installation
 
